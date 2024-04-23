@@ -1,0 +1,19 @@
+- DOOR:
+	- A construction used to divide two rooms, temporarily closing the passage between them
+		- Synset('caterpillar.n.02')
+	- It's an opening, it can be opened or closed.
+		- Synset('dark_lantern.n.01')
+	- An object that divide two room, closing an hole in a wall. You can open the door to let people enter or get out.
+		- Synset('doorway.n.01')
+	- Usable for access from one area to another
+		- Synset('versatile.s.03')
+	- Structure that delimits an area and allows access to it
+		- Synset('peristylar.s.01')
+	- an object that is used to block passage but can be moved to pass
+		- Synset('chock.n.01')
+	- An assembled object, historically made of wood, but also of iron or other materials, used to separate rooms in a building. Sometimes opened by moving a handle, or pushed, or locked and requires some means to unlock. it consists of the main body, the hinges on which it rotates, and a lock.
+		- Synset('hoop.n.02')
+	- object used to go through rooms separate by a wall, can be opened or closed
+		- Synset('dabbled.s.01')
+	- something that can be opened, in order to access to another place
+		- Synset('emigration.n.01')
